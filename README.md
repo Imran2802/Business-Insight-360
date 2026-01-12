@@ -163,22 +163,23 @@ The Home page allows navigation to different views:
 ## Dashboard Preview
 
 ### Home
-![Home_Page](images/home.png)
+![Home](Home_Page.png)
 
 ### Finance
-![Finance](images/finance.png)
+![Finance](Finance_Page.png)
 
 ### Sales
-![Sales](images/sales.png)
+![Sales](Sales_Page.png)
 
 ### Marketing
-![Marketing](images/marketing.png)
+![Marketing](Marketing_Page.png)
 
 ### Supply Chain
-![Supply Chain](images/supply_chain.png)
+![Supply Chain](Supply_Chain_Page.png)
 
 ### Executive
-![Executive](images/executive.png)
+![Executive](Executive_Page.png)
+
 
 
 Each view provides deep insights into its respective business function.
