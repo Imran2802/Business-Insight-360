@@ -142,6 +142,8 @@ Data was imported from a **MySQL database** into Power BI using secure database 
 
 A **Snowflake Schema** was used to build a scalable and performance-optimized data model, following industry best practices.
 
+![Data Model](Data_Model.png)
+
 ---
 
 ## Dashboard Structure
