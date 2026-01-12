@@ -166,7 +166,7 @@ The Home page allows navigation to different views:
 ![Home](Home_Page.png)
 
 ### Finance
-![Finance](Finance_Page.png)
+![Finance](FInance_Page.png)
 
 ### Sales
 ![Sales](Sales_Page.png)
