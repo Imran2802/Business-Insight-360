@@ -154,8 +154,8 @@ The Home page allows navigation to different views:
 - Sales  
 - Marketing  
 - Supply Chain  
-- Executive  
-- Products  
+- Executive
+- Information
 - Support  
 
 ---
