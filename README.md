@@ -163,7 +163,7 @@ The Home page allows navigation to different views:
 ## Dashboard Preview
 
 ### Home
-![Home](images/home.png)
+![Home_Page](images/home.png)
 
 ### Finance
 ![Finance](images/finance.png)
